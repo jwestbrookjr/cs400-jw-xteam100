@@ -1,6 +1,9 @@
 One upon a time in Madison, WI...
 
-
+There was a professional wrestler who also happened to be a bear.
+As the bear was getting prepared for battle it decided that it 
+was hungry. Luckily, outside the stadium there was some fresh 
+salmon. It ate the salmon.
 mkdir x2
 exit
 

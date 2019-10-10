@@ -3,7 +3,9 @@ One upon a time in Madison, WI...
 There was a professional wrestler who also happened to be a bear.
 As the bear was getting prepared for battle it decided that it 
 was hungry. Luckily, outside the stadium there was some fresh 
-salmon. It ate the salmon.
+salmon. It ate the salmon. 
+
+Although the bear thought the salmon tasted really good, it sort of gave him  a stomach ache. The bear wasn't sure if that was the salmon or something else he had before. Regardless, he had a battle to be prepared for, and his stomach ache was the least of his problems 
 mkdir x2
 exit
 

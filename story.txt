@@ -9,3 +9,7 @@ Although the bear thought the salmon tasted really good, it sort of gave him  a 
 mkdir x2
 exit
 
+Suddenly, linux commands started coming out of the sky and flying towards the bear. At first, the bear did not know what to do.
+His stomach ache made it difficult for him to think clearly. With some effort, the bear finally stood up on his back legs and
+faced towards the ever approaching "mkdir x2" and "exit." There was only one thing going through his head. The one thing the
+bear spent his entire life doing: fight.
